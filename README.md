@@ -1,10 +1,8 @@
-# Engenharia de Serviços em Rede
-
-## 🎥 Real-Time Video Streaming
+# Real-Time Video Streaming
 
 This repository explores the design and implementation of a real-time video streaming service.
 
-## 🏗 Architecture
+## Architecture
 
 - **Origin Server**: Stores videos and generates UDP packets containing video frames. These packets are only sent when requested by a node.
 
